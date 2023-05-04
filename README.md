@@ -68,7 +68,9 @@ las necesidades de tu empresa.
 
 ## 5. Ejemplo de integración con repositorios de código. <a name="id4"></a>
 
-<strong> Falta hacer este apartado </strong>
+En primer lugar no hemos podido realizarlo personalmente debido a que es necesario una VM un servicio de hosting y un nombre de dominio propio, todo esto para poder acceder al dominio viculado a la maquina virtual desde la propia herramienta de fogbugz, además de que por ahora no tenemos los medios para implementar aplicaciones web.
+
+Este apartado no lo hemos podido encontrar realizado debido a la falta de videos explicativos en la red.
 
 ----
 
