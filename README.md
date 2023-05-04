@@ -5,16 +5,18 @@
 ## ÍNDICE
 
 + [1. ¿Que son las herramientas CI/CD?](#id0)
-+ [2. ¿Qué es, y dentro de qué grupo de las herramientas CI/DC está?](#id1)
++ [2. ¿Qué es, y dentro de qué grupo de las herramientas CI/CD está?](#id1)
 + [3. ¿Qué ofrece?](#id2)
 + [4. Plan de precios](#id3)
 + [5. Ejemplo de integración con repositorios de código.](#id4)
 + [6. Ejemplo de documentación de proyectos.](#id5)
+  + [6.1 Ejemplo de documentación de proyectos.](#id5)
+  + [6.2 Como crear una wiki.](#id5)
 + [7. Otras herramientas con las que se integra.](#id6)
 + [8. Comparativa con otras herramientas](#id7)
 + [9. ¿Por qué escoger la herramienta frente a otras?](#id8)
 
-## 1. ¿Qué son las herramientas CI/DC? <a name="id0"></a>
+## 1. ¿Qué son las herramientas CI/CD? <a name="id0"></a>
 
 CI y CD son herramientas cuyo nombre significa integración continua (CI: continuous integration) y entrega continua (CD:
 continuous delivery) y son prácticas de desarrollo software que implican la automatización de la construcción, prueba y
@@ -25,11 +27,10 @@ Las herramientas CI/CD son software que facilitan la implementación de estas pr
 + Travis
 + Jenkins 
 + GitLab CI/CD 
-+ Fogbugz
 
 ----
 
-## 2. ¿Qué es, y dentro de qué grupo de las herramientas CI/DC está? <a name="id1"></a>
+## 2. ¿Qué es, y dentro de qué grupo de las herramientas CI/CD está? <a name="id1"></a>
 
 Esta herramienta no pertenece a ningún grupo CI/CD, si no, es una herramienta de gestión de proyectos y tareas, como también de
 seguimiento de errores, problemas, utilizada en el desarrollo de software. Se utiliza para facilitar la comunicación y el
@@ -61,11 +62,19 @@ las necesidades de tu empresa.
 
 ## 5. Ejemplo de integración con repositorios de código. <a name="id4"></a>
 
+<strong> Falta hacer este apartado </strong>
+
+----
+
+## 6. Ejemplo de documentación de proyectos. <a name="id5"></a>
+
+### 6.1 Como crear un repositorio. <a name="id5.1"></a>
+
 + Paso 1:
 
 Nos situamos en la página principal de Fogbugz y hacemos click en la sección marcada.
 
-![Sección marcada](./img/1.png)
+![Sección marcada](./img/1.png) <a name="image"></a>
 
 + Paso 2:
 
@@ -94,11 +103,9 @@ Una vez hecho todo esto nos dirigimos a nuestro editor de código, en nuestro ca
 
 ![Acceso](./img/5.png)
 
-----
+### 6.2 Como crear una wiki. <a name="id5.2"></a>
 
-## 6. Ejemplo de documentación de proyectos. <a name="id5"></a>
-
-<strong> Falta hacer este apartado </strong>
+Debido a que el periodo de prueba de la herramienta fue corto, no pudimos implementar una wiki, pero si pudimos encontrar este [video](https://www.youtube.com/watch?v=4ZNZuh58iXc&list=PLJaF-8iLGlU4z7gzUbFKr5Nx9GZSMsl-d&index=7) explicativo.
 
 ----
 
