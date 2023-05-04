@@ -2,6 +2,12 @@
 
 # Preguntas sobre Fogbugz
 
+**Nombres:** [Ayoze Hernández Díaz](https://github.com/ElPayo) y [Marlon Farizo Hergueta](https://github.com/marlonfrz)
+
+**Curso:** 1º Desarrollo de Aplicaciones Web.
+
+**Asignatura:** Entornos de desarrollo.
+
 ## ÍNDICE
 
 + [1. ¿Que son las herramientas CI/CD?](#id0)
