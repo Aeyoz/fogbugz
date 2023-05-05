@@ -159,8 +159,7 @@ permite que integres TestLodge. Además permite que integres tus propias herrami
 
 ## 9. ¿Por qué escoger la herramienta frente a otras? <a name="id8"></a>
 
-+ La herramienta es muy cómoda e intuitiva, estando muy bien documentada y
-con un buen servicio técnico que la respalda. 
++ La herramienta es muy cómoda e intuitiva, estando muy bien documentada. 
 
 + Entre sus caracteristicas te ofrece un gestor de proyectos y una herramienta de revisor de código que se integra tanto con Imperial como con
 Git.
